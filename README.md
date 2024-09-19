@@ -1,6 +1,6 @@
 # 🚗 Car Rental System
 
-Explore the world of car rentals with the **Car Rental System**, a Java-based console application that combines learning and simulation. 🌟
+Explore the world of car rentals with the **Car Rental System**, a Java-based console application. 🌟
 
 ## Features
 
@@ -18,4 +18,4 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 
 ---
 
-Feel the thrill of renting and returning cars while mastering OOP concepts. Let's Dive into the Car Rental System! 🚗💨
+Feel the thrill of renting and returning cars while mastering OOPs concepts. Let's Dive into the Car Rental System! 🚗💨
